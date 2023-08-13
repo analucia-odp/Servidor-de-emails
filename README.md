@@ -3,7 +3,7 @@
 ## Descrição
   Esse projeto tem como objetivo implementar um pequeno servidor de emails. Este, por sua vez, irá realizar operações básicas, como: Cadastrar um usuário, remover um usuário, entregar um email a ele, consultar seus emails da caixa de entrada. As mensagens serão entregues ao usuário de acordo com sua ordem de prioridade e serão consultadas uma por uma, a partir da sua ordem de chegada e da sua prioridade.
 
-  Esse projeto foi implementado como parte de um trabalho prático, da disciplica de Estruturas de Dados
+  Esse projeto foi implementado como parte de um trabalho prático da disciplina de Estruturas de Dados
 
 ## Observações
 <b>A interface do sistema construído é do tipo console</b>
